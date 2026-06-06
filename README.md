@@ -105,9 +105,15 @@ Without effective reporting, organisations may struggle to identify retention ch
 
 Define workforce reporting requirements and KPI needs.
 
+<img width="589" height="693" alt="01_business requirement   planning" src="https://github.com/user-attachments/assets/76f34d1b-6dae-46f2-88a7-2680e2f1b39e" />
+
+
 ## Data Modelling
 
 Design a Star Schema data warehouse.
+
+<img width="763" height="636" alt="02_data_model" src="https://github.com/user-attachments/assets/978bd63b-4035-479f-a90c-679434d608c2" />
+
 
 ## ETL Development
 
